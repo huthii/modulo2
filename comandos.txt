@@ -1,0 +1,5 @@
+ls - lista
+
+cd - nome do caminho - entra na pasta
+
+mkdir "nome da pasta" - cria a pasta
